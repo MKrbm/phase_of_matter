@@ -1,1 +1,1 @@
-Just trying to detect phase transition temperature. But failed due to lack of sample data of triangular lattice Ising model.
+Just trying to detect phase transition temperature of triangular lattice ising model by using model that studied phase transition temperature of square lattice ising model . But failed due to lack of sample data of triangular lattice Ising model.
